@@ -3,6 +3,9 @@
 ```diff
 ! Early alpha. Don't read this. It's not ready yet.
 ```
+<p align="center">
+<img src="images/logo.png" width="30%" height="30%">
+</p>
 
 This tutorial shows you how to set up a Kubernetes cluster without any public clouds, like on a PC hidden deep inside your grandmother's cellar or WWII bunker. An ideal tutorial for a classic bare metal Andy.
 
